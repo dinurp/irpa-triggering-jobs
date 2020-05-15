@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WORKFLOWDATA>
+	<FOLDER Name="mainWorkflow" CtxtId="f3a827d9-ae1c-4f46-8ad8-ed8ee44aec9f" IsIndexed="N">
+		<ITEM Name="pendingJobs" CtxtId="0f9cbe40-399c-4797-b8a7-4d5d0c3167e4" IsIndexed="N" />
+	</FOLDER>
+	<FOLDER Name="theJob" CtxtId="b2bc52f8-4522-4f73-825d-be695b944a46" IsIndexed="N">
+		<FOLDER Name="input" CtxtId="ab6b2430-9b01-4ccd-a1dc-1c41432a0f51" IsIndexed="N">
+			<ITEM Name="id" CtxtId="7755b8c8-6e09-4277-99b9-44943ef7f0a9" IsIndexed="N" />
+		</FOLDER>
+		<FOLDER Name="output" CtxtId="63cd4f26-cdaa-48a4-8e00-c92f016d8d56" IsIndexed="N">
+			<ITEM Name="status" CtxtId="b1734fd6-be5f-4297-b776-a16d4c6f0697" IsIndexed="N" />
+		</FOLDER>
+	</FOLDER>
+</WORKFLOWDATA>
